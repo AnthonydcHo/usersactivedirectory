@@ -133,5 +133,4 @@ Attempt to log into Client-1 with one of the accounts in macOs or windows (take 
 <img src="https://i.imgur.com/xr8hXb8.png" height="80%" width="80%" 
 <p align="center">
 
-We've successfully configured Remote Desktop for non-administrative users, automated user creation with PowerShell, and managed group policies! 
-:  <br/>
+We've successfully configured Remote Desktop for non-administrative users, automated user creation with PowerShell, and managed group policies! <br/>
